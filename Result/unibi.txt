@@ -1,0 +1,56 @@
+siskerma.unibi.ac.id/
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   ├── img/
+│   │   ├── features.png
+│   │   ├── logo4.png
+│   │   └── logos.png
+│   ├── js/
+│   │   └── main.js
+│   └── vendor/
+│       ├── apexcharts/
+│       │   └── apexcharts.min.js
+│       ├── bootstrap/
+│       │   ├── css/
+│       │   │   └── bootstrap.min.css
+│       │   └── js/
+│       │       └── bootstrap.bundle.min.js
+│       ├── bootstrap-icons/
+│       │   ├── fonts/
+│       │   │   ├── bootstrap-icons.woff
+│       │   │   └── bootstrap-icons.woff2
+│       │   └── bootstrap-icons.css
+│       ├── boxicons/
+│       │   ├── css/
+│       │   │   └── boxicons.min.css
+│       │   └── fonts/
+│       │       ├── boxicons.eot
+│       │       ├── boxicons.svg
+│       │       ├── boxicons.ttf
+│       │       ├── boxicons.woff
+│       │       └── boxicons.woff2
+│       ├── chart.js/
+│       │   └── chart.umd.js
+│       ├── echarts/
+│       │   └── echarts.min.js
+│       ├── php-email-form/
+│       │   └── validate.js
+│       ├── quill/
+│       │   ├── quill.bubble.css
+│       │   ├── quill.min.js
+│       │   └── quill.snow.css
+│       ├── remixicon/
+│       │   ├── remixicon.css
+│       │   ├── remixicon.eot
+│       │   ├── remixicon.svg
+│       │   ├── remixicon.ttf
+│       │   ├── remixicon.woff
+│       │   └── remixicon.woff2
+│       ├── simple-datatables/
+│       │   ├── simple-datatables.js
+│       │   └── style.css
+│       └── tinymce/
+│           └── tinymce.min.js
+├── login
+└── robots.txt
